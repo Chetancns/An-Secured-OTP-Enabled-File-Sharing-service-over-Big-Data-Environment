@@ -8,6 +8,8 @@ maintaining data centers is expensive, requires specialized workforce, and can c
 hurdles to sharing. Conversely, attributes like cost-effectiveness, ease of use, and
 (almost) infinite scalability make public cloud services natural candidates to address
 data storage problems.
+
+
   File sharing has been an essential part of this century. Using various applications,
 files can be shared to large number of users. For the purpose of storage, the Hadoop
 Distributed File System (HDFS) can be used. HDFS is mainly used for the unstructured
